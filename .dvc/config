@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive_remote
+['remote "gdrive_remote"']
+    url = gdrive://0APFPxNAepvsAUk9PVA
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../level-harbor-481019-v5-75cc7d51f212.json
